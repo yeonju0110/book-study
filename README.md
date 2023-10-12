@@ -9,3 +9,5 @@
 ### ✎ [chapter 6 배열](/learning-typescript/arrays)
 
 ### ✎ [chapter 7 인터페이스](/learning-typescript/interface)
+
+### ✎ [chapter 8 클래스](/learning-typescript/class)
