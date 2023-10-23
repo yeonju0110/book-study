@@ -1,11 +1,37 @@
+/**
+ * 10.2 제네릭 인터페이스
+ */
 {
-  /**
-   * 10.2.1 유추된 제너릭 인터페이스 타입
-   */
+  interface Box<T> {
+    inside: T;
+  }
 
-  /**
-   * getLast 함수는
-   */
+  let stringyBox: Box<string> = {
+    inside: "abc",
+  };
+
+  let numberBox: Box<number> = {
+    inside: 123,
+  };
+
+  //   let incorrectBox: Box<number> = {
+  //     inside: false, // ❌ Error: Type 'boolean' is not assignable to type 'number'.
+  //   };
+}
+
+{
+  interface Array<T> {
+    pop(): T | undefined;
+
+    push(...items: T[]): number;
+  }
+}
+
+/**
+ * 10.2.1 유추된 제네릭 인터페이스 타입
+ */
+
+{
   interface LinkedNode<Value> {
     next?: LinkedNode<Value>;
     value: Value;
