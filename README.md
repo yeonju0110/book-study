@@ -11,3 +11,5 @@
 ### ✎ [chapter 7 인터페이스](/learning-typescript/interface)
 
 ### ✎ [chapter 8 클래스](/learning-typescript/class)
+
+### ✎ [chapter 10 제네릭](/learning-typescript/generics)
