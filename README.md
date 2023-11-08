@@ -13,3 +13,5 @@
 ### ✎ [chapter 8 클래스](/learning-typescript/class)
 
 ### ✎ [chapter 10 제네릭](/learning-typescript/generics)
+
+### ✎ [chapter 11 선언 파일](/learning-typescript/declaration-files/)
