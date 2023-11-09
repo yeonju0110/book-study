@@ -2,7 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "moduleResolution": "node",
-    "skipLibCheck": true,
+    "skipLibCheck": false,
     "strict": true,
     "target": "es2021"
   }
