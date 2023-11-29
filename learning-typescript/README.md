@@ -13,6 +13,7 @@
 - ✎ [chapter 11 선언 파일](/learning-typescript/declaration-files/)
 - ✎ [chapter 13 구성 옵션](/learning-typescript/configuration-options/)
 - ✎ [chapter 14 구문 확장](/learning-typescript/syntax-extensions/)
+- ✎ [chapter 15 타입 운영](/learning-typescript/type-operations/)
 
 <br />
 <br />
