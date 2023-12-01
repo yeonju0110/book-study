@@ -51,12 +51,15 @@
   ): Promise<QueryResult<Options>>;
 
   // @ts-ignore
+  // 반환된 타입: string | undefined
   await retrieve("Birute");
 
   // @ts-ignore
+  // 반환된 타입: string | undefined
   await retrieve("Jane", { throwIfNotFound: Math.random() > 0.5 });
 
   // @ts-ignore
+  // 반환된 타입: string
   await retrieve("Dian", { throwIfNotFound: true });
 }
 

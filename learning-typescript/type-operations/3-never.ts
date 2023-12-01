@@ -36,6 +36,8 @@
     : never;
 
   type GetsString = FirstParameter<(arg0: string) => void>; // type: string
+  type GetsNumber = FirstParameter<(arg0: number) => void>; // type: number
+  type GetsString2 = FirstParameter<(arg0: string, arg1: string) => void>; // type: never => Error !! ❌
 }
 
 /**
