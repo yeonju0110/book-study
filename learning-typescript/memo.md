@@ -211,3 +211,29 @@ interface User {
 const userData: User = { name: "Jane" }; // Ok
 const userLogin: Required<User> = { name: "Jane" }; // Error
 ```
+
+## 🎀 2.3 타입 애네테이션
+
+```jsx
+let rocker: string;
+rocker = "Joan Jett";
+```
+
+- 초기값을 할당하지 않고도 변수의 타입을 선언할 수 있는 구문
+- 런타임 코드에 영향을 주지 않음
+
+### 📍 불필요한 타입 애네테이션
+
+```jsx
+let firstName: string = "Tina";
+```
+
+- string 타입 애너테이션 중복
+  - ts가 이미 firstName이 string 타입임을 유추할 수 있기 때문
+- 수동적으로 작성하는 일은 번거롭 but, 때로는 유용할지도
+
+## 🎀 2.4 타입 형태
+
+1. 모듈: export 또는 import가 있는 파일
+2. 스크립트: 모듈이 아닌 모든 파일
+   ⇒ ts에서는 스크립트면 해당 파일을 전역 스코프로 간주
