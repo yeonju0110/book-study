@@ -4,6 +4,7 @@
 
 ## 목차
 
+- ✎ [chapter 1 타입스크립트에서 타입스크립트로](/learning-typescript/from-javascript-to-typescript)
 - ✎ [chapter 4 객체](/learning-typescript/objects)
 - ✎ [chapter 5 함수](/learning-typescript/functions)
 - ✎ [chapter 6 배열](/learning-typescript/arrays)
