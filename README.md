@@ -6,4 +6,4 @@
 
 ### [Learning typescript](/learning-typescript/)
 
-- 스터디 중 💭
+- 복습 중 💭
