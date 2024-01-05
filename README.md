@@ -6,4 +6,8 @@
 
 ### [Learning typescript](/learning-typescript/)
 
-- 복습 중 💭
+- 학습 완료
+
+### [Modern React deep dive](/modern-react-deep-dive/)
+
+- 스터디 중 💭

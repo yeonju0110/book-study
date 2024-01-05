@@ -1,6 +1,7 @@
 # 📖 Learning Typescript 책 스터디
 
 [![Since](https://img.shields.io/badge/since-2023.09.18-6A5ACD.svg?&edge_flat=false)](https://github.com/yeonju0110/typescript-study)
+[![Until](https://img.shields.io/badge/since-2023.11.30-6BCDCD.svg?&edge_flat=false)](https://github.com/yeonju0110/typescript-study)
 
 ## 목차
 
