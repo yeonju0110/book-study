@@ -3,7 +3,8 @@
 
 | 책 이름                     | 기간                    | 자료                                                                                                                                                                           | 형태               |
 | --------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 | 2025.05.26~ | [깃허브](https://github.com/The-CataCombs/TechBooks) | 그룹 스터디 (6명)  |
+| 가상 면접 사례로 배우는 대규모 시스템 설계 기초 | 2025.09.06 ~ ing | [노션](https://yeonj.notion.site/1-2311f7ba02888034ad28f9fadafd046f?source=copy_link), [깃허브](https://github.com/JAVACAFE-STUDY/2025-system-design-interview) | 그룹 스터디 (10명)  |
+| 주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 | 2025.05.26 ~ 2025.07.31 | [깃허브](https://github.com/The-CataCombs/TechBooks) | 그룹 스터디 (5명)  |
 | RAG시스템 구축을 위한 랭체인 실전 가이드 | 2025.03.09 ~ 2025.04.29 | [깃허브](https://github.com/JAVACAFE-STUDY/2025-langchain-rag), [노션](https://yeonj.notion.site/RAG-1a21f7ba02888088b463ebf3c394682f?pvs=4)                                  | 그룹 스터디 (7명)  |
 | 이펙티브 자바 3/E판         | 2024.09.12 ~ 2024.12.19 | [노션](https://yeonj.notion.site/3-E-04bb3e5a92244f1997b32a7c445cbcc2?pvs=4), [깃허브](https://github.com/JAVACAFE-STUDY/2024-effective-java)                                  | 그룹 스터디 (9명)  |
 | 모던 리액트 딥 다이브       | 2024.03.19 ~ 2024.06.04 | [노션](https://yeonj.notion.site/Modern-React-Deep-Dive-1141f7ba02888028be35f7a4673a31d4?pvs=4), [깃허브](https://github.com/JAVACAFE-STUDY/2024-modern-react-deep-dive-study) | 그룹 스터디 (7명)  |
